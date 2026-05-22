@@ -14,7 +14,6 @@ let state = {
 };
 
 let currentInput = [];
-
 const startWordRow = document.getElementById("startWordRow");
 const targetWordRow = document.getElementById("targetWordRow");
 const guessesContainer = document.getElementById("guessesContainer");
@@ -23,14 +22,29 @@ const activeInputRow = document.getElementById("activeInputRow");
 async function init() {
     try {
         const wordsRes = await fetch('words.txt');
+        if (!wordsRes.ok) throw new Error(`HTTP ${wordsRes.status}: Could not find words.txt`);
         const wordsText = await wordsRes.text();
-        wordsText.split('\n').forEach(w => dictionary.add(w.trim().toUpperCase()));
+        wordsText.split('\n').forEach(w => {
+            if (w.trim()) dictionary.add(w.trim().toUpperCase());
+        });
         const puzzlesRes = await fetch('morph_puzzles.json');
-        dailyPuzzles = await puzzlesRes.json();
+        if (!puzzlesRes.ok) throw new Error(`HTTP ${puzzlesRes.status}: Could not find morph_puzzles.json`);
+        const parsedPuzzles = await puzzlesRes.json();
+        if (!Array.isArray(parsedPuzzles) || parsedPuzzles.length === 0) {
+            throw new Error("morph_puzzles.json is empty or not formatted as an array.");
+        }
+        
+        dailyPuzzles = parsedPuzzles.map(p => {
+            if (p.startWord && p.endWord) {
+                return { start: p.startWord, end: p.endWord, optimalSteps: p.optimalSteps };
+            }
+            return p; 
+        });
+
     } catch (err) {
-        console.error("Failed to fetch data. Using fallbacks.", err);
-        dictionary = new Set(["COLD","CORD","CARD","WARD","WARM"]);
-        dailyPuzzles = [{ "start": "COLD", "end": "WARM" }];
+        showToast("Error loading daily data. Using backup puzzle.");
+        dictionary = new Set(["COLD","CORD","CARD","WARD","WARM", "PAIR", "HAIR", "HAIL", "HALL", "HALF"]);
+        dailyPuzzles = [{ "start": "COLD", "end": "WARM", "optimalSteps": 4 }];
     }
 
     const currentPhtDay = Math.floor((Date.now() + MANILA_OFFSET_MS) / MS_PER_DAY) - JAVA_EPOCH_OFFSET;
@@ -44,13 +58,24 @@ async function init() {
     
     state.puzzleId = Math.max(0, requestedId);
     currentPuzzle = dailyPuzzles[state.puzzleId % dailyPuzzles.length];
+    if (!currentPuzzle || !currentPuzzle.start || !currentPuzzle.end) {
+        console.error("❌ PUZZLE FORMAT ERROR: Missing start or end word.", currentPuzzle);
+        currentPuzzle = { start: "COLD", end: "WARM", optimalSteps: 4 };
+    }
+
     wordLength = currentPuzzle.start.length;
     document.getElementById("puzzleNumber").innerText = `Morph #${state.puzzleId}`;
+    const themeEl = document.getElementById("puzzleTheme");
+    if (themeEl) {
+        themeEl.innerText = currentPuzzle.optimalSteps 
+            ? `Par: ${currentPuzzle.optimalSteps} steps` 
+            : "Change one letter at a time";
+    }
     
     loadState();
     renderBoard();
     setupKeyboard();
-    
+
     const archiveLinks = document.getElementById("archiveLinks");
     for(let i = Math.max(0, state.puzzleId - 5); i <= state.puzzleId; i++) {
         let a = document.createElement("a");
