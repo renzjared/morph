@@ -35,9 +35,8 @@ async function init() {
             throw new Error("morph_puzzles.json is empty or not formatted as an array.");
         }
         dailyPuzzles = parsedPuzzles.map(p => {
-            if (Array.isArray(p) && p.length >= 2) return { start: p[0], end: p[1] };
-            if (p.startWord && p.targetWord) return { start: p.startWord, end: p.targetWord };
-            return p;
+            // use updated version
+            return { start: p.startWord, end: p.endWord, optimalSteps: p.optimalSteps };
         });
 
     } catch (err) {
