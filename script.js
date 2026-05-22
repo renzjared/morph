@@ -1,6 +1,6 @@
 const MS_PER_DAY = 86400000;
 const MANILA_OFFSET_MS = 8 * 60 * 60 * 1000;
-const JAVA_EPOCH_OFFSET = 20581; 
+const JAVA_EPOCH_OFFSET = 20584; 
 
 let dictionary = new Set();
 let dailyPuzzles = [];
