@@ -1,0 +1,5032 @@
+[
+  {
+    "startWord": "PAIR",
+    "endWord": "BUSY",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HAND",
+    "endWord": "BLUE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "ROLE",
+    "endWord": "ALSO",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "JUMP",
+    "endWord": "SORT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "READ",
+    "endWord": "ELSE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GIRL",
+    "endWord": "ELSE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MAKE",
+    "endWord": "BASK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "ROAR",
+    "endWord": "TASK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "KISS",
+    "endWord": "BARD",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CRAM",
+    "endWord": "LOOP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SWAT",
+    "endWord": "CHAT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "VEER",
+    "endWord": "YANK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PEEK",
+    "endWord": "SLAT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SEEM",
+    "endWord": "CHAW",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PART",
+    "endWord": "LOUR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FLEE",
+    "endWord": "REAP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TEXT",
+    "endWord": "HAUL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GRID",
+    "endWord": "HOOF",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SKIP",
+    "endWord": "GAIN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TIME",
+    "endWord": "DUSK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WARM",
+    "endWord": "SEND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "YAUP",
+    "endWord": "LUCK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DONE",
+    "endWord": "CAGE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "BUSK",
+    "endWord": "PALM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WERE",
+    "endWord": "COST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BONG",
+    "endWord": "HATH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BONK",
+    "endWord": "WELL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "KITE",
+    "endWord": "DAMP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "POUR",
+    "endWord": "PORE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HUNT",
+    "endWord": "RIOT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SCAM",
+    "endWord": "STEW",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LURE",
+    "endWord": "WENT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "REEK",
+    "endWord": "TEST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "MIME",
+    "endWord": "WRIT",
+    "optimalSteps": 7 
+  },
+  {
+    "startWord": "CONK",
+    "endWord": "HEAP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NAME",
+    "endWord": "HUSH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SEEP",
+    "endWord": "SCAM",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "GAPE",
+    "endWord": "FLOP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HOAX",
+    "endWord": "BUOY",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "MIME",
+    "endWord": "HACK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TOOK",
+    "endWord": "BIKE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "POCK",
+    "endWord": "ALIT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GUSH",
+    "endWord": "HELD",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "RATE",
+    "endWord": "WORK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SNOW",
+    "endWord": "BONG",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "JAPE",
+    "endWord": "HAND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GONG",
+    "endWord": "WARP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FRET",
+    "endWord": "SPAN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "POUR",
+    "endWord": "CART",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WENT",
+    "endWord": "PICK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TRAP",
+    "endWord": "TAPE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "ZONE",
+    "endWord": "VEST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SLOG",
+    "endWord": "VEIN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CODE",
+    "endWord": "CLAW",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SIZE",
+    "endWord": "DANG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BLUR",
+    "endWord": "FOLD",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BUOY",
+    "endWord": "POSE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NICK",
+    "endWord": "VEND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SCAR",
+    "endWord": "GRIN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GAOL",
+    "endWord": "DUNK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TUCK",
+    "endWord": "CEDE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GIVE",
+    "endWord": "WOOF",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FACE",
+    "endWord": "HOOF",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HALT",
+    "endWord": "PERK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "VIDE",
+    "endWord": "FURL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GASP",
+    "endWord": "GAPE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CLUE",
+    "endWord": "SKID",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GIVE",
+    "endWord": "LAND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SHUT",
+    "endWord": "BRED",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HAWK",
+    "endWord": "ROOM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FOOL",
+    "endWord": "GILD",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MOOT",
+    "endWord": "COSH",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BURP",
+    "endWord": "JEER",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PEAL",
+    "endWord": "ALIT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MOCK",
+    "endWord": "NAIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SPIT",
+    "endWord": "RANT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DENT",
+    "endWord": "MUSH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FOIL",
+    "endWord": "HEAR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TAMP",
+    "endWord": "READ",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DRAG",
+    "endWord": "TOOL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FEND",
+    "endWord": "TOOK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DASH",
+    "endWord": "COAL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FILL",
+    "endWord": "SPIT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SOLD",
+    "endWord": "FUSE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DENT",
+    "endWord": "LOLL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SING",
+    "endWord": "HEAD",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DOLE",
+    "endWord": "HAVE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "DING",
+    "endWord": "BOIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "LEAK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SWAB",
+    "endWord": "DENY",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WELT",
+    "endWord": "BEAM",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "CORE",
+    "endWord": "LARK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TROT",
+    "endWord": "BLUB",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PURR",
+    "endWord": "PUSH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BACK",
+    "endWord": "HOPE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BEEF",
+    "endWord": "CUSS",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WELL",
+    "endWord": "LUBE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GAZE",
+    "endWord": "COAL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LOLL",
+    "endWord": "HAND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DOLE",
+    "endWord": "WEED",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HATH",
+    "endWord": "SIRE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DOCK",
+    "endWord": "MOAN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "COOP",
+    "endWord": "HEAT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FAST",
+    "endWord": "GALL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WERE",
+    "endWord": "WAKE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SINK",
+    "endWord": "WAWL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HELM",
+    "endWord": "GEAR",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FLAY",
+    "endWord": "STEM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FRAP",
+    "endWord": "SLAT",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "CONE",
+    "endWord": "COOL",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SOAP",
+    "endWord": "WHOP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "GIRD",
+    "endWord": "MIME",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CRAM",
+    "endWord": "WAIT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PANT",
+    "endWord": "TOUR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "RIOT",
+    "endWord": "SKEW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WEED",
+    "endWord": "TAME",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LOST",
+    "endWord": "LEAP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BIRL",
+    "endWord": "BARE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "LACK",
+    "endWord": "JOSH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HOOK",
+    "endWord": "THIN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "KEEN",
+    "endWord": "FILE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RUSH",
+    "endWord": "HOOP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SPEW",
+    "endWord": "COAL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CITE",
+    "endWord": "RUST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SHED",
+    "endWord": "PULL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BLOW",
+    "endWord": "FOOL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WALK",
+    "endWord": "DEED",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BEAM",
+    "endWord": "SWOB",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "COOK",
+    "endWord": "WEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "KNAP",
+    "endWord": "BOND",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BLUR",
+    "endWord": "STUD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "COIN",
+    "endWord": "JOSH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GATE",
+    "endWord": "JADE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "HEFT",
+    "endWord": "BUNT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LENT",
+    "endWord": "COAT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WAFT",
+    "endWord": "RUST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LOST",
+    "endWord": "KITE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FRAY",
+    "endWord": "WEEP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "VOTE",
+    "endWord": "RAZE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HOLD",
+    "endWord": "NICK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WADE",
+    "endWord": "WINK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FESS",
+    "endWord": "BURL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WORK",
+    "endWord": "LOCK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "LULL",
+    "endWord": "MAIM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WARP",
+    "endWord": "FRIT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LOAD",
+    "endWord": "FISH",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TOUR",
+    "endWord": "FILE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SHOP",
+    "endWord": "PURL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TREE",
+    "endWord": "RAID",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TELL",
+    "endWord": "BADE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LEAN",
+    "endWord": "WOVE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CREW",
+    "endWord": "CLOY",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SKIP",
+    "endWord": "LOLL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HELP",
+    "endWord": "MUST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SEEM",
+    "endWord": "REIN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CHOP",
+    "endWord": "LOLL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CONK",
+    "endWord": "SOWN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SEWN",
+    "endWord": "SATE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BEEN",
+    "endWord": "BITE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PUMP",
+    "endWord": "BEAT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TACK",
+    "endWord": "LAST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "VENT",
+    "endWord": "BEAM",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "BEND",
+    "endWord": "LAMB",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WARP",
+    "endWord": "FUND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SOCK",
+    "endWord": "LOOT",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "ZEST",
+    "endWord": "CHAT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SLAB",
+    "endWord": "DASH",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BIRR",
+    "endWord": "SOLO",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "ZEST",
+    "endWord": "BASH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CONK",
+    "endWord": "RISE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DARN",
+    "endWord": "WERE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DECK",
+    "endWord": "SEAM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MEET",
+    "endWord": "RIDE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LOPE",
+    "endWord": "FLOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WIRE",
+    "endWord": "HEAR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WERE",
+    "endWord": "BLUR",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "YELP",
+    "endWord": "GAIN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "NAIL",
+    "endWord": "KNAP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SULK",
+    "endWord": "GAME",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LUBE",
+    "endWord": "HIDE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BIND",
+    "endWord": "BRIM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BOOT",
+    "endWord": "SAID",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SOIL",
+    "endWord": "TWIN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BARD",
+    "endWord": "JUMP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TOOK",
+    "endWord": "TOTE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FORD",
+    "endWord": "BLOB",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WHAM",
+    "endWord": "COMB",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "POOL",
+    "endWord": "BUSY",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FAZE",
+    "endWord": "HARK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "WAIT",
+    "endWord": "BANK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DUNK",
+    "endWord": "PEAL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BARE",
+    "endWord": "SAID",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LAND",
+    "endWord": "CHOP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TOLD",
+    "endWord": "CREW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WAWL",
+    "endWord": "POUT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TRIP",
+    "endWord": "LAME",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CAMP",
+    "endWord": "GAIT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BUSY",
+    "endWord": "TUCK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "TYPE",
+    "endWord": "BIND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BELL",
+    "endWord": "RISE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CLIP",
+    "endWord": "REEF",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "ROAM",
+    "endWord": "FRET",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SHAG",
+    "endWord": "KNOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WAGE",
+    "endWord": "COST",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CRAM",
+    "endWord": "BRIM",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "COPY",
+    "endWord": "RIDE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SULK",
+    "endWord": "GUSH",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SMUT",
+    "endWord": "TEXT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FART",
+    "endWord": "SUNK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LIST",
+    "endWord": "MAIL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FRAP",
+    "endWord": "TERM",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BLUR",
+    "endWord": "GRUB",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TERM",
+    "endWord": "DENT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RUST",
+    "endWord": "HELD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SELL",
+    "endWord": "TIDE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "POST",
+    "endWord": "KICK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TRUE",
+    "endWord": "SPUR",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PACK",
+    "endWord": "MELT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TONE",
+    "endWord": "WHAM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HEWN",
+    "endWord": "DARN",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TELL",
+    "endWord": "GAWP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DUNK",
+    "endWord": "TOTE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CLUE",
+    "endWord": "SCAN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LEAP",
+    "endWord": "RUST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BLOW",
+    "endWord": "COAT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MOOR",
+    "endWord": "TOPE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TIDE",
+    "endWord": "JOSH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CLUE",
+    "endWord": "FRAG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FIST",
+    "endWord": "CURL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BREW",
+    "endWord": "LENT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MOPE",
+    "endWord": "DING",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PAGE",
+    "endWord": "MAKE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "ROCK",
+    "endWord": "BAKE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "YARN",
+    "endWord": "FADE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SKEW",
+    "endWord": "FEED",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "RIOT",
+    "endWord": "DOSS",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TRUE",
+    "endWord": "PEER",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FLOW",
+    "endWord": "MIME",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FLAY",
+    "endWord": "WAIT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HOCK",
+    "endWord": "RICE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PUSH",
+    "endWord": "MISS",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DRAW",
+    "endWord": "CHOP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PARE",
+    "endWord": "WENT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SOCK",
+    "endWord": "MISS",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DOSS",
+    "endWord": "FARM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "STEM",
+    "endWord": "GRAB",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "VENT",
+    "endWord": "FULL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MASK",
+    "endWord": "LEAF",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NAIL",
+    "endWord": "REEF",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FRIT",
+    "endWord": "REND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SOLO",
+    "endWord": "JEER",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LEAF",
+    "endWord": "SEED",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LEAP",
+    "endWord": "TOOK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SCAN",
+    "endWord": "SHUT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BELL",
+    "endWord": "GANG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LUBE",
+    "endWord": "BUNG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "VAMP",
+    "endWord": "DONE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "BURL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LINK",
+    "endWord": "BONE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SHOT",
+    "endWord": "CLAM",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FLED",
+    "endWord": "YAUP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BAIL",
+    "endWord": "PLOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DUNK",
+    "endWord": "PEAK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "STEM",
+    "endWord": "FORD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CLUE",
+    "endWord": "TEEM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BRIM",
+    "endWord": "GAIT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LOAN",
+    "endWord": "GEAR",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CLUE",
+    "endWord": "BLEW",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SLEW",
+    "endWord": "BIRD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SWAY",
+    "endWord": "SINK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PEEL",
+    "endWord": "MUST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SPEW",
+    "endWord": "SWOB",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MAIM",
+    "endWord": "KILL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LAMB",
+    "endWord": "HULL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "YELL",
+    "endWord": "BURP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WANE",
+    "endWord": "BIKE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "PARE",
+    "endWord": "GIRD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LUBE",
+    "endWord": "MARK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HOST",
+    "endWord": "HUSH",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "PLOP",
+    "endWord": "CAKE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "REIN",
+    "endWord": "LOCK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BIRD",
+    "endWord": "HEWN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GIRD",
+    "endWord": "BATE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HOAX",
+    "endWord": "FIRM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PROD",
+    "endWord": "TRAP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TAMP",
+    "endWord": "BURL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SWAT",
+    "endWord": "FRIT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CASH",
+    "endWord": "MIME",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "POKE",
+    "endWord": "RULE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LIKE",
+    "endWord": "BUST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GAPE",
+    "endWord": "JUKE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GASP",
+    "endWord": "BUSY",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "COWL",
+    "endWord": "BRED",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GRIT",
+    "endWord": "JILT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TUBE",
+    "endWord": "FELT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SLIP",
+    "endWord": "MUCK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FARM",
+    "endWord": "WEAR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SNAG",
+    "endWord": "MELD",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BUMP",
+    "endWord": "RISE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DATE",
+    "endWord": "COAX",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SWAT",
+    "endWord": "BIDE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TACK",
+    "endWord": "BURL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MAIM",
+    "endWord": "SMUT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CORN",
+    "endWord": "GAOL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "NAIL",
+    "endWord": "PLOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DEED",
+    "endWord": "GUST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WEPT",
+    "endWord": "PAVE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PARE",
+    "endWord": "BIRR",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LORD",
+    "endWord": "HERD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CLOY",
+    "endWord": "BANG",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LILT",
+    "endWord": "WORK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "COOL",
+    "endWord": "SAID",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "REAP",
+    "endWord": "BACH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CLIP",
+    "endWord": "JEST",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "MOVE",
+    "endWord": "DULL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LEAP",
+    "endWord": "LARD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MOCK",
+    "endWord": "LORD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SHAM",
+    "endWord": "GOWN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HISS",
+    "endWord": "HURT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DIED",
+    "endWord": "SAVE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FUEL",
+    "endWord": "LAUD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DAMP",
+    "endWord": "FELL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LURK",
+    "endWord": "POCK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "WEPT",
+    "endWord": "DUSK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BAKE",
+    "endWord": "THAW",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "STAR",
+    "endWord": "HARK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LARD",
+    "endWord": "COAL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DULL",
+    "endWord": "MARK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SWOT",
+    "endWord": "LIMP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PALM",
+    "endWord": "LISP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FREE",
+    "endWord": "CARD",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FAIL",
+    "endWord": "SEAM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TELL",
+    "endWord": "CLOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JEST",
+    "endWord": "WOOF",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SEEK",
+    "endWord": "BOND",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TRUE",
+    "endWord": "SNOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FILM",
+    "endWord": "LORD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SEEK",
+    "endWord": "DECK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "BRAG",
+    "endWord": "KNOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SNAG",
+    "endWord": "CHOP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BUNG",
+    "endWord": "NAIL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WARD",
+    "endWord": "FLAW",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CAME",
+    "endWord": "HIKE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BOAT",
+    "endWord": "READ",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SCAB",
+    "endWord": "TACK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PALM",
+    "endWord": "BIRD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FUME",
+    "endWord": "SOLE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GULP",
+    "endWord": "RODE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GLUE",
+    "endWord": "POOL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SPEW",
+    "endWord": "PARK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LOOM",
+    "endWord": "DUNK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PLUG",
+    "endWord": "SLAY",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "STEM",
+    "endWord": "TOOT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DING",
+    "endWord": "SUNK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "DRAG",
+    "endWord": "NEAR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BEEF",
+    "endWord": "TINT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DROP",
+    "endWord": "DICE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "EASE",
+    "endWord": "BURY",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DOWN",
+    "endWord": "JOKE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TROT",
+    "endWord": "TEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "RUST",
+    "endWord": "FIND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HULK",
+    "endWord": "JELL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TOTE",
+    "endWord": "JOSH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HOOF",
+    "endWord": "STIR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "JELL",
+    "endWord": "LUST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TROD",
+    "endWord": "CRIB",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SWAP",
+    "endWord": "CHIN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LIFT",
+    "endWord": "FETE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BASK",
+    "endWord": "PROD",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LOSE",
+    "endWord": "SEEN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WIPE",
+    "endWord": "ZING",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HOST",
+    "endWord": "GOLF",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MATE",
+    "endWord": "DOLE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SHAG",
+    "endWord": "JOSH",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DONE",
+    "endWord": "JOSH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HEEL",
+    "endWord": "NOCK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BEEF",
+    "endWord": "MEET",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HAIL",
+    "endWord": "SLAT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FILM",
+    "endWord": "CUBE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "ROUT",
+    "endWord": "HUMP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PULL",
+    "endWord": "RENT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FIRM",
+    "endWord": "BITE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PACE",
+    "endWord": "REEF",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WANE",
+    "endWord": "MOAN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HORN",
+    "endWord": "GASH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LOPE",
+    "endWord": "NECK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BARD",
+    "endWord": "SWIM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LICK",
+    "endWord": "BUTT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LOOK",
+    "endWord": "RACE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DEFY",
+    "endWord": "FIND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "MELD",
+    "endWord": "PARK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GAWP",
+    "endWord": "LOOP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FLOG",
+    "endWord": "SWUM",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FOAM",
+    "endWord": "FELT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CURB",
+    "endWord": "HOOK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "OUST",
+    "endWord": "FAWN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SNUB",
+    "endWord": "SHUN",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "TOTE",
+    "endWord": "SLAP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BARE",
+    "endWord": "SHAM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "SAIL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PRIM",
+    "endWord": "BAWL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "GREY",
+    "endWord": "DRAW",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FEEL",
+    "endWord": "TOOK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FEAR",
+    "endWord": "WOKE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LORD",
+    "endWord": "FLIT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WEND",
+    "endWord": "JILT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MILK",
+    "endWord": "BIDE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MOCK",
+    "endWord": "MADE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LAVE",
+    "endWord": "HIDE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "STAR",
+    "endWord": "YAWN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BURN",
+    "endWord": "SLIP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BRED",
+    "endWord": "BONK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "POST",
+    "endWord": "PLOW",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FIRM",
+    "endWord": "CRAB",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WIPE",
+    "endWord": "RANK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DUCK",
+    "endWord": "COAL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HEWN",
+    "endWord": "LAND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HURT",
+    "endWord": "BURY",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "BACK",
+    "endWord": "WEAN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FESS",
+    "endWord": "SATE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BELL",
+    "endWord": "HAVE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SACK",
+    "endWord": "TORN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "COAL",
+    "endWord": "CLOP",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SACK",
+    "endWord": "STUB",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HARE",
+    "endWord": "WARD",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "CART",
+    "endWord": "CUSS",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PART",
+    "endWord": "ROOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "MELT",
+    "endWord": "BOAT",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "BANG",
+    "endWord": "BLOW",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SOAK",
+    "endWord": "CARD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WHIR",
+    "endWord": "SUCK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FUEL",
+    "endWord": "BEAR",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "REST",
+    "endWord": "LOOP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SHAM",
+    "endWord": "HOME",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WEPT",
+    "endWord": "BANK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HOME",
+    "endWord": "NEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SLAT",
+    "endWord": "BUSK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WAWL",
+    "endWord": "BULK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SNAG",
+    "endWord": "RENT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GAIT",
+    "endWord": "LOST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NOCK",
+    "endWord": "DIKE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "THIN",
+    "endWord": "LIME",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HUNT",
+    "endWord": "SIZE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TAPE",
+    "endWord": "BOAT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FOUL",
+    "endWord": "CALM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HUSK",
+    "endWord": "MAUL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SAIL",
+    "endWord": "DING",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GYBE",
+    "endWord": "ROCK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HELP",
+    "endWord": "GAIT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SKIN",
+    "endWord": "STAG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "JUNK",
+    "endWord": "WEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WINE",
+    "endWord": "MUCK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BURP",
+    "endWord": "CASE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "ROCK",
+    "endWord": "GULP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CRAB",
+    "endWord": "CLOP",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "MELD",
+    "endWord": "PRIM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LEFT",
+    "endWord": "BOMB",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "JUNK",
+    "endWord": "MOCK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "KILL",
+    "endWord": "OUST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WOLF",
+    "endWord": "KEEL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SIDE",
+    "endWord": "CAST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SUIT",
+    "endWord": "TONE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LAND",
+    "endWord": "VEER",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PROD",
+    "endWord": "TONE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MAIL",
+    "endWord": "SLOG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WINK",
+    "endWord": "FIRE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "LULL",
+    "endWord": "SHOE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TUNE",
+    "endWord": "TEST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "COPE",
+    "endWord": "HASH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CHAT",
+    "endWord": "WEAN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "NECK",
+    "endWord": "MIME",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "KEEN",
+    "endWord": "DING",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WIPE",
+    "endWord": "BEAN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TURN",
+    "endWord": "FLIP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TREE",
+    "endWord": "SLAG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HEWN",
+    "endWord": "TING",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WASH",
+    "endWord": "SOIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MOCK",
+    "endWord": "CORD",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SLUE",
+    "endWord": "WEND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TUCK",
+    "endWord": "LIMP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SWOB",
+    "endWord": "SOAK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HASP",
+    "endWord": "GUSH",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "YOKE",
+    "endWord": "ROUT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PRIM",
+    "endWord": "TELL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FAIL",
+    "endWord": "BULL",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "BONG",
+    "endWord": "HARE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FRAY",
+    "endWord": "CLIP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BIRR",
+    "endWord": "CALK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CREW",
+    "endWord": "CRAM",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MIND",
+    "endWord": "PEAK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "COSH",
+    "endWord": "DINE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CALK",
+    "endWord": "TUCK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FLUX",
+    "endWord": "XRAY",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TRIP",
+    "endWord": "TWIT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CLOG",
+    "endWord": "WHAM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BIDE",
+    "endWord": "MUCK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TROD",
+    "endWord": "LEND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LOOK",
+    "endWord": "BLAT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "COPE",
+    "endWord": "WAKE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "DRAW",
+    "endWord": "RAID",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "KITE",
+    "endWord": "FLAT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TRAM",
+    "endWord": "CHOP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WERE",
+    "endWord": "VOTE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WHAP",
+    "endWord": "LINK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "COAL",
+    "endWord": "HAVE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LAME",
+    "endWord": "CLAM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WAIT",
+    "endWord": "DOZE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FORK",
+    "endWord": "RIOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SUIT",
+    "endWord": "FIND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SLAB",
+    "endWord": "DEFY",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CREW",
+    "endWord": "DOWN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SCAT",
+    "endWord": "PLUG",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WIRE",
+    "endWord": "TEST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HOCK",
+    "endWord": "WORK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "GAOL",
+    "endWord": "HUMP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FADE",
+    "endWord": "YARN",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "RISE",
+    "endWord": "MIME",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DIVE",
+    "endWord": "DART",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SPAR",
+    "endWord": "DING",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CUSS",
+    "endWord": "WAVE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BARD",
+    "endWord": "CLOT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SLOP",
+    "endWord": "DULL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "GULP",
+    "endWord": "MELT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HIRE",
+    "endWord": "PEEK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HISS",
+    "endWord": "SEND",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "GULL",
+    "endWord": "HELD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TELL",
+    "endWord": "PLAT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "REIN",
+    "endWord": "LEAF",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "COME",
+    "endWord": "KITE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "COSH",
+    "endWord": "PLAY",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CANT",
+    "endWord": "HALE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "YACK",
+    "endWord": "DUNG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BEAN",
+    "endWord": "HUSK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TORE",
+    "endWord": "SLUM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SCAT",
+    "endWord": "REEK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "VOTE",
+    "endWord": "GUST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BUNK",
+    "endWord": "GAME",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TIME",
+    "endWord": "BIRL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LAUD",
+    "endWord": "FOOT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LEAN",
+    "endWord": "PEEL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PEAK",
+    "endWord": "EASE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "MEET",
+    "endWord": "COIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WOLF",
+    "endWord": "FRAG",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "STIR",
+    "endWord": "WORN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TRAM",
+    "endWord": "FIND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "STUN",
+    "endWord": "NOCK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HAIL",
+    "endWord": "COME",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "KNIT",
+    "endWord": "SHIP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HURT",
+    "endWord": "COST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GEAR",
+    "endWord": "JEST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SAID",
+    "endWord": "HONK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LAVE",
+    "endWord": "TURF",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HIVE",
+    "endWord": "READ",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FINE",
+    "endWord": "RAGE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "JADE",
+    "endWord": "BUCK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "STEP",
+    "endWord": "GREY",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NOCK",
+    "endWord": "GAOL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LAND",
+    "endWord": "TEEM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DIET",
+    "endWord": "SLIM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BILL",
+    "endWord": "SKIM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GROW",
+    "endWord": "BOOT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WORD",
+    "endWord": "COAT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HINT",
+    "endWord": "MUSH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "POCK",
+    "endWord": "BAWL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GARB",
+    "endWord": "TOOK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FUNK",
+    "endWord": "LAVE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GAME",
+    "endWord": "JUKE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FOOL",
+    "endWord": "YEAN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "POCK",
+    "endWord": "BELT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PERK",
+    "endWord": "WAFT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SOCK",
+    "endWord": "HARE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DOZE",
+    "endWord": "LIME",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PARK",
+    "endWord": "BADE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "LICK",
+    "endWord": "CLUE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CLOP",
+    "endWord": "LOCK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PEEP",
+    "endWord": "FETE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "STOP",
+    "endWord": "YELL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BLUR",
+    "endWord": "FIST",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "ROAM",
+    "endWord": "CLAM",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CRAM",
+    "endWord": "PACE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SCAM",
+    "endWord": "BUSH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WAIL",
+    "endWord": "BIRD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WALK",
+    "endWord": "FOND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RANG",
+    "endWord": "SIRE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PORE",
+    "endWord": "CLOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FISH",
+    "endWord": "FACE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HATH",
+    "endWord": "GIMP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "SLUE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CONK",
+    "endWord": "COIN",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "WIRE",
+    "endWord": "TAME",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FAZE",
+    "endWord": "PAIR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BEAT",
+    "endWord": "HULK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TEAM",
+    "endWord": "SOCK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BRED",
+    "endWord": "FOOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HELD",
+    "endWord": "LUBE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BITT",
+    "endWord": "HUMP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BEAM",
+    "endWord": "GAPE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DOLE",
+    "endWord": "TEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GRID",
+    "endWord": "WERT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BUNK",
+    "endWord": "LUMP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WELL",
+    "endWord": "YAWP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "GAOL",
+    "endWord": "WAIT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MUST",
+    "endWord": "GIRD",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DOPE",
+    "endWord": "BELL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DIED",
+    "endWord": "WHOP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "POKE",
+    "endWord": "SOLE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "REEF",
+    "endWord": "HANG",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SLOG",
+    "endWord": "SLED",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "HAIL",
+    "endWord": "SPUD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FOOT",
+    "endWord": "BUOY",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JUKE",
+    "endWord": "GIVE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SLUM",
+    "endWord": "FLEX",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GAOL",
+    "endWord": "SOCK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CHAT",
+    "endWord": "GIFT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FAIL",
+    "endWord": "KICK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TOTE",
+    "endWord": "YACK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FORD",
+    "endWord": "BEAN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PROD",
+    "endWord": "LAUD",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "GEAR",
+    "endWord": "SAIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CRAB",
+    "endWord": "BALK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SHAM",
+    "endWord": "HOOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LULL",
+    "endWord": "DICE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DINE",
+    "endWord": "REEL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LEER",
+    "endWord": "HARM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PICK",
+    "endWord": "TEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FLAP",
+    "endWord": "PUMP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FRET",
+    "endWord": "FALL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SPIT",
+    "endWord": "SUNK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BUNG",
+    "endWord": "HOCK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FILE",
+    "endWord": "HURL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SEEK",
+    "endWord": "FLAG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CRAP",
+    "endWord": "FAKE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CALK",
+    "endWord": "SEEK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LAUD",
+    "endWord": "GLOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HOVE",
+    "endWord": "PERK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SWAM",
+    "endWord": "POSE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "STEP",
+    "endWord": "BASE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HEAD",
+    "endWord": "SLOW",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HUMP",
+    "endWord": "WALK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FARE",
+    "endWord": "SEAT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MUST",
+    "endWord": "WEAN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GASH",
+    "endWord": "BAWL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BUSS",
+    "endWord": "LUMP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MILK",
+    "endWord": "DUST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RAID",
+    "endWord": "VISE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LOOP",
+    "endWord": "CHID",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HALT",
+    "endWord": "FEAR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GUSH",
+    "endWord": "KISS",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MIND",
+    "endWord": "ROVE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "KINK",
+    "endWord": "BOND",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "STAY",
+    "endWord": "SHOW",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LENT",
+    "endWord": "SEEP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FEAR",
+    "endWord": "CAME",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PECK",
+    "endWord": "COAT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "YACK",
+    "endWord": "HONK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "LEER",
+    "endWord": "SPUR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FORD",
+    "endWord": "CLAW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "RILE",
+    "endWord": "CHAT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PAVE",
+    "endWord": "DUSK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BLOT",
+    "endWord": "WEND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LINE",
+    "endWord": "ROOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NEED",
+    "endWord": "CURB",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BEAT",
+    "endWord": "KNAP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FOND",
+    "endWord": "CRAM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MASK",
+    "endWord": "VISA",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SUNG",
+    "endWord": "DOPE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TOLD",
+    "endWord": "BODE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LUMP",
+    "endWord": "PEER",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HYPE",
+    "endWord": "LOAD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JIVE",
+    "endWord": "LUST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PICK",
+    "endWord": "TINT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FOND",
+    "endWord": "MILK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BOND",
+    "endWord": "POUR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PURL",
+    "endWord": "TOUT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BORE",
+    "endWord": "TAPE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "HIKE",
+    "endWord": "PUMP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "COST",
+    "endWord": "RING",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MAIL",
+    "endWord": "ROVE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SEEN",
+    "endWord": "HOOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LOFT",
+    "endWord": "SOAK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LOLL",
+    "endWord": "YACK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "COAT",
+    "endWord": "RILE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SHAG",
+    "endWord": "SLOP",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FIRM",
+    "endWord": "BANG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DUST",
+    "endWord": "HIRE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WOOF",
+    "endWord": "DROP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MOCK",
+    "endWord": "DENT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BEAM",
+    "endWord": "FORM",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CLOY",
+    "endWord": "BRED",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WANT",
+    "endWord": "SLOG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CHAR",
+    "endWord": "STAY",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FAIL",
+    "endWord": "FLOP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HISS",
+    "endWord": "BIND",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BUTT",
+    "endWord": "BORN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SIFT",
+    "endWord": "DUSK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RAGE",
+    "endWord": "DUPE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FLOG",
+    "endWord": "WOOF",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TACK",
+    "endWord": "SCAR",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BOOT",
+    "endWord": "WAIL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CLOT",
+    "endWord": "NICK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GONG",
+    "endWord": "HILL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "VEIN",
+    "endWord": "SWAM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PAGE",
+    "endWord": "FREE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "JILT",
+    "endWord": "DISC",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SLAY",
+    "endWord": "PLUG",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "CORD",
+    "endWord": "PLUG",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BADE",
+    "endWord": "KEEN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "REAP",
+    "endWord": "BUSS",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "KICK",
+    "endWord": "BENT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FLAY",
+    "endWord": "WEPT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "NOTE",
+    "endWord": "WADE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DEEM",
+    "endWord": "TOLD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HARM",
+    "endWord": "HYPE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SHUT",
+    "endWord": "BEND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SHOP",
+    "endWord": "DENY",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "QUIZ",
+    "endWord": "SPUR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CLIP",
+    "endWord": "TEND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BLOB",
+    "endWord": "ZEST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "RUST",
+    "endWord": "MARK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SOAP",
+    "endWord": "HERD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DENY",
+    "endWord": "SAID",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LURK",
+    "endWord": "BEND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GYBE",
+    "endWord": "KILL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FLIP",
+    "endWord": "BACH",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "MIME",
+    "endWord": "NOCK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GLUE",
+    "endWord": "GRID",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SLAY",
+    "endWord": "TRIP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WHOP",
+    "endWord": "TOIL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HARM",
+    "endWord": "WEED",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GLUE",
+    "endWord": "COST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HONK",
+    "endWord": "LILT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DOPE",
+    "endWord": "SINK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SOIL",
+    "endWord": "FARM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CHAP",
+    "endWord": "LOOP",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "TREK",
+    "endWord": "PANT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LAME",
+    "endWord": "COPY",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CRAM",
+    "endWord": "GORE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "PEER",
+    "endWord": "JILT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LICK",
+    "endWord": "MUST",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "MELD",
+    "endWord": "PERK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JOSH",
+    "endWord": "WELL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "HOCK",
+    "endWord": "MOOT",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SWAM",
+    "endWord": "DOZE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "TEAM",
+    "endWord": "FALL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "CORK",
+    "endWord": "ROIL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BONK",
+    "endWord": "SLUR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TILE",
+    "endWord": "HANG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GLUG",
+    "endWord": "REAP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WARD",
+    "endWord": "HILL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HAVE",
+    "endWord": "GILD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HEFT",
+    "endWord": "CANT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "NEST",
+    "endWord": "GUSH",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DIED",
+    "endWord": "WADE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CASE",
+    "endWord": "DATE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "MINE",
+    "endWord": "WILT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WAVE",
+    "endWord": "FUSE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SPED",
+    "endWord": "FLOG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FIND",
+    "endWord": "WAIL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BILK",
+    "endWord": "CLIP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LOUR",
+    "endWord": "SLOW",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HEFT",
+    "endWord": "YELL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SLAM",
+    "endWord": "TOUR",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CHAR",
+    "endWord": "SPUR",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BALE",
+    "endWord": "FLEW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HURL",
+    "endWord": "BOND",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GULL",
+    "endWord": "DARE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TAMP",
+    "endWord": "GLOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TELL",
+    "endWord": "TREE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SKID",
+    "endWord": "BUSS",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SOCK",
+    "endWord": "GLUG",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SLIT",
+    "endWord": "HOOT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "RISE",
+    "endWord": "DOTE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CITE",
+    "endWord": "VISA",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DOWN",
+    "endWord": "RAGE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GLUE",
+    "endWord": "PAIN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LORD",
+    "endWord": "BLOW",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HULK",
+    "endWord": "PAIN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "GOAD",
+    "endWord": "VENT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GORE",
+    "endWord": "CUBE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "WAIT",
+    "endWord": "REEL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DAZE",
+    "endWord": "FILM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "JAIL",
+    "endWord": "TUNE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "MOVE",
+    "endWord": "HATH",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WOOF",
+    "endWord": "TWIN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WHAP",
+    "endWord": "DRAG",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "YANK",
+    "endWord": "MILK",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FEND",
+    "endWord": "FESS",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WEAR",
+    "endWord": "WILT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "THAW",
+    "endWord": "BEAR",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "RUSH",
+    "endWord": "DUNG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SWAT",
+    "endWord": "MEET",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "POCK",
+    "endWord": "TROT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BOLT",
+    "endWord": "WHOP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DEED",
+    "endWord": "HOWL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CHAP",
+    "endWord": "BRIM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BRAY",
+    "endWord": "COIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SPAM",
+    "endWord": "WAFT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JELL",
+    "endWord": "PUSH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CODE",
+    "endWord": "BALL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FOAL",
+    "endWord": "WIPE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JELL",
+    "endWord": "HOOF",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DUNK",
+    "endWord": "DINE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "CULL",
+    "endWord": "MESS",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HAWK",
+    "endWord": "MEET",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "VAMP",
+    "endWord": "DARE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MOVE",
+    "endWord": "GIMP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FAIL",
+    "endWord": "SULK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BORN",
+    "endWord": "BUST",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FUND",
+    "endWord": "NEED",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "ALIT",
+    "endWord": "LAVE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "ROMP",
+    "endWord": "ZOOM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PLOT",
+    "endWord": "TYPE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FOUL",
+    "endWord": "CALL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HAZE",
+    "endWord": "CLIP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LULL",
+    "endWord": "WELT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BUSY",
+    "endWord": "BLAB",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SEWN",
+    "endWord": "LEAD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RANG",
+    "endWord": "CLAP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SING",
+    "endWord": "COOP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SOAK",
+    "endWord": "RILE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "COME",
+    "endWord": "TALC",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "CAMP",
+    "endWord": "GRUB",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BLUB",
+    "endWord": "LEAN",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LASH",
+    "endWord": "SIFT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SOLD",
+    "endWord": "RUSH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "STUN",
+    "endWord": "BAND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DUNG",
+    "endWord": "REEL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BASE",
+    "endWord": "BEEF",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FLOW",
+    "endWord": "BLAT",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SLED",
+    "endWord": "TILT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CLUB",
+    "endWord": "NEED",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TIRE",
+    "endWord": "PEEP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "XRAY",
+    "endWord": "WRIT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DOPE",
+    "endWord": "BUSY",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SMUT",
+    "endWord": "STEW",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "READ",
+    "endWord": "ZEST",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LOCK",
+    "endWord": "FOUL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GAVE",
+    "endWord": "TALK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TAIL",
+    "endWord": "SOLE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WHIP",
+    "endWord": "FUND",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "KINK",
+    "endWord": "HORN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "MADE",
+    "endWord": "CANE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FLOG",
+    "endWord": "SEND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "QUIT",
+    "endWord": "DIET",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "POUR",
+    "endWord": "WELD",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HEAP",
+    "endWord": "FORM",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HOST",
+    "endWord": "REST",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LEAP",
+    "endWord": "QUIP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "RANK",
+    "endWord": "WHAM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LINK",
+    "endWord": "WARN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SEEN",
+    "endWord": "SHOE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FLAT",
+    "endWord": "PEEK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CORE",
+    "endWord": "CRIB",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DENY",
+    "endWord": "GRID",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DAUB",
+    "endWord": "PRAY",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "LUBE",
+    "endWord": "BULK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "RAPE",
+    "endWord": "TUSK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GLUE",
+    "endWord": "SACK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "RATE",
+    "endWord": "WASH",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TRIM",
+    "endWord": "JUNK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SEED",
+    "endWord": "LIME",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "COST",
+    "endWord": "SWIG",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SLIT",
+    "endWord": "FOND",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "STEW",
+    "endWord": "SEEK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "STEP",
+    "endWord": "WHAP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "KEEL",
+    "endWord": "HAZE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FRAP",
+    "endWord": "TAME",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SOLD",
+    "endWord": "DATE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LOST",
+    "endWord": "PANT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "TOLL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WILT",
+    "endWord": "BUST",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "CASE",
+    "endWord": "DEKE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TALC",
+    "endWord": "LURE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "RAPE",
+    "endWord": "TOOT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DIVE",
+    "endWord": "BELT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LIVE",
+    "endWord": "FOIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "VEIN",
+    "endWord": "GIRD",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SWAT",
+    "endWord": "GELD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "QUIT",
+    "endWord": "ROIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WARM",
+    "endWord": "SKID",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "TOOL",
+    "endWord": "CONK",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "PUMP",
+    "endWord": "WANE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SHAM",
+    "endWord": "HALE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HOME",
+    "endWord": "GLOM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "VIDE",
+    "endWord": "LOOK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "RAID",
+    "endWord": "BUNG",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WAGE",
+    "endWord": "DISK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PILE",
+    "endWord": "HEAL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "TASK",
+    "endWord": "MADE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PULL",
+    "endWord": "GATE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "GROW",
+    "endWord": "SHIP",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WAIT",
+    "endWord": "WARM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BULL",
+    "endWord": "LINK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SLIP",
+    "endWord": "ROLL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CULL",
+    "endWord": "WARP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "PICK",
+    "endWord": "FISH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FOAL",
+    "endWord": "SCAN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "JIBE",
+    "endWord": "WORE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "PERK",
+    "endWord": "FILE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "BACK",
+    "endWord": "ROPE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PLAY",
+    "endWord": "GLUT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "HUMP",
+    "endWord": "ROOT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DOOM",
+    "endWord": "ZEST",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BLOB",
+    "endWord": "HIVE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FUND",
+    "endWord": "SWIG",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BUMP",
+    "endWord": "BALK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "SPUD",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BOAT",
+    "endWord": "HELP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WEEP",
+    "endWord": "FAIL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FOUL",
+    "endWord": "GAWP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PLAY",
+    "endWord": "FOUL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "KINK",
+    "endWord": "HOOF",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "WERT",
+    "endWord": "BULL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "KITE",
+    "endWord": "SOWN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "RENT",
+    "endWord": "CART",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "DOTE",
+    "endWord": "LURK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BOAT",
+    "endWord": "SLIP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WEND",
+    "endWord": "SPAT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WOKE",
+    "endWord": "KEEL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "PLOT",
+    "endWord": "HALT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BASE",
+    "endWord": "ROUT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SATE",
+    "endWord": "GELD",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DEFY",
+    "endWord": "LEAK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "RAKE",
+    "endWord": "GIRD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "COAL",
+    "endWord": "SKIN",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "MUST",
+    "endWord": "FLIP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LUBE",
+    "endWord": "TEND",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GORE",
+    "endWord": "FURL",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MATE",
+    "endWord": "REEK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WAIL",
+    "endWord": "TIRE",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LOOK",
+    "endWord": "SWOT",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FRAG",
+    "endWord": "HOLE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "SIRE",
+    "endWord": "LEAN",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DRUG",
+    "endWord": "WHIP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FLUB",
+    "endWord": "BUCK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LAID",
+    "endWord": "HULK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "STOP",
+    "endWord": "JUKE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BRIM",
+    "endWord": "FILL",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "KNEW",
+    "endWord": "PEER",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "FAZE",
+    "endWord": "WOVE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BOMB",
+    "endWord": "FLAG",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "BLOW",
+    "endWord": "SHUT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "DARN",
+    "endWord": "FATE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "HOOK",
+    "endWord": "KEEP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GIRD",
+    "endWord": "BULK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "WHIZ",
+    "endWord": "HOOK",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LAIN",
+    "endWord": "WHAM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "ROAR",
+    "endWord": "BLAB",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SPUR",
+    "endWord": "JUKE",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CHIP",
+    "endWord": "CURB",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DOSS",
+    "endWord": "FALL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "GELD",
+    "endWord": "VENT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "ROVE",
+    "endWord": "PUSH",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "HAND",
+    "endWord": "WASH",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "COKE",
+    "endWord": "HEFT",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "MADE",
+    "endWord": "FART",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "GIVE",
+    "endWord": "CRAP",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "BACK",
+    "endWord": "HOOP",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "WIVE",
+    "endWord": "FUSS",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "MELT",
+    "endWord": "GLUE",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "RUST",
+    "endWord": "BLOW",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HUNT",
+    "endWord": "BURN",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "HALT",
+    "endWord": "NEST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "BEEP",
+    "endWord": "FOIL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "WADE",
+    "endWord": "POOL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "SLED",
+    "endWord": "SELL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PAVE",
+    "endWord": "TAPE",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "FLOG",
+    "endWord": "COAX",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "FIND",
+    "endWord": "SPED",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BEEN",
+    "endWord": "SLID",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "TORN",
+    "endWord": "MINE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "PUSH",
+    "endWord": "COOL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "TING",
+    "endWord": "DAWN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "WILT",
+    "endWord": "CLAP",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "DICE",
+    "endWord": "WARP",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "SAWN",
+    "endWord": "SPED",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "BEEF",
+    "endWord": "WELL",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FOWL",
+    "endWord": "ROAM",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "DOSS",
+    "endWord": "KICK",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "FAKE",
+    "endWord": "LIFT",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "VEIL",
+    "endWord": "WARM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "MILK",
+    "endWord": "YOWL",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "HOSE",
+    "endWord": "JADE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SKEW",
+    "endWord": "DAMN",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DRAG",
+    "endWord": "TOUT",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "DRUG",
+    "endWord": "STEM",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "LOOT",
+    "endWord": "PLOW",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "LAME",
+    "endWord": "WOKE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "FINE",
+    "endWord": "DIAL",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LOOM",
+    "endWord": "CARD",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "JELL",
+    "endWord": "HATH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "DARN",
+    "endWord": "LOOM",
+    "optimalSteps": 8
+  },
+  {
+    "startWord": "LEAD",
+    "endWord": "HOSE",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "FINE",
+    "endWord": "FART",
+    "optimalSteps": 4
+  },
+  {
+    "startWord": "SHAG",
+    "endWord": "ROAR",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "SPAM",
+    "endWord": "SACK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "DROP",
+    "endWord": "FINK",
+    "optimalSteps": 9
+  },
+  {
+    "startWord": "CURB",
+    "endWord": "FIRE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "ROAR",
+    "endWord": "LUST",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "STIR",
+    "endWord": "CRAM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "CEDE",
+    "endWord": "HAVE",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "VEST",
+    "endWord": "CANT",
+    "optimalSteps": 5
+  },
+  {
+    "startWord": "MARK",
+    "endWord": "SEAM",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "LAID",
+    "endWord": "HATH",
+    "optimalSteps": 7
+  },
+  {
+    "startWord": "GOLF",
+    "endWord": "SOCK",
+    "optimalSteps": 6
+  },
+  {
+    "startWord": "SWOT",
+    "endWord": "HEAR",
+    "optimalSteps": 5
+  }
+]

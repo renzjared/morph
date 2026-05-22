@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Word Morph</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+        <div class="menu-icon" id="helpBtn">❓</div>
+        <h1>Morph</h1>
+        <!-- fixed stacked icons here -->
+        <div style="display: flex; align-items: center; gap: 15px;">
+            <div class="menu-icon" id="themeBtn">🌙</div>
+            <div class="menu-icon" id="archiveBtn">📅</div>
+        </div>
+    </header>
+
+    <main>
+        <div class="puzzle-info">
+            <h2 id="puzzleNumber">Loading...</h2>
+            <p class="theme-text">Change one letter at a time</p>
+        </div>
+
+        <div id="toast" class="toast hidden"></div>
+
+        <div class="game-board" id="board">
+            <!-- start -->
+            <div class="word-row start-word" id="startWordRow"></div>
+            <div id="guessesContainer"></div>
+            <div class="word-row active-row" id="activeInputRow"></div>
+            <!-- fixed, target word -->
+            <div class="word-row target-word" id="targetWordRow"></div>
+        </div>
+
+        <div id="keyboard">
+            <div class="key-row">
+                <button class="key" data-key="Q">Q</button><button class="key" data-key="W">W</button><button class="key" data-key="E">E</button><button class="key" data-key="R">R</button><button class="key" data-key="T">T</button><button class="key" data-key="Y">Y</button><button class="key" data-key="U">U</button><button class="key" data-key="I">I</button><button class="key" data-key="O">O</button><button class="key" data-key="P">P</button>
+            </div>
+            <div class="key-row">
+                <button class="key" data-key="A">A</button><button class="key" data-key="S">S</button><button class="key" data-key="D">D</button><button class="key" data-key="F">F</button><button class="key" data-key="G">G</button><button class="key" data-key="H">H</button><button class="key" data-key="J">J</button><button class="key" data-key="K">K</button><button class="key" data-key="L">L</button>
+            </div>
+            <div class="key-row">
+                <button class="key action-key" data-key="ENTER">ENTER</button><button class="key" data-key="Z">Z</button><button class="key" data-key="X">X</button><button class="key" data-key="C">C</button><button class="key" data-key="V">V</button><button class="key" data-key="B">B</button><button class="key" data-key="N">N</button><button class="key" data-key="M">M</button><button class="key action-key" data-key="BACKSPACE">⌫</button>
+            </div>
+        </div>
+    </main>
+
+    <footer class="app-footer">
+        <p>Originally developed by Renz Jared Rolle for Renz-bot.</p>
+        <p>Play my other game: <a href="https://renzjared.github.io/chainlink/" target="_blank">Chainlink</a></p>
+        <p>Add Renz-bot to Discord: <a href="https://bit.ly/renz-bot" target="_blank" rel="noopener noreferrer">bit.ly/renz-bot</a></p>
+    </footer>
+
+    <div class="overlay" id="modalOverlay"></div>
+    <div class="modal help-modal" id="helpModal">
+        <button class="close-btn" onclick="closeModals()">✕</button>
+        <h3>How to Play</h3>
+        <p>Transform the top word into the bottom word.</p>
+        <ul>
+            <li>Change exactly <strong>one letter</strong> at a time.</li>
+            <li>Every step must be a valid English word.</li>
+            <li>Find the shortest path!</li>
+        </ul>
+        
+        <p class="help-example-title">Example:</p>
+        <div class="mini-board">
+            <div class="word-row start-word">
+                <div class="letter-box">C</div><div class="letter-box">O</div><div class="letter-box">L</div><div class="letter-box">D</div>
+            </div>
+            <div class="word-row guess-word">
+                <div class="letter-box">C</div><div class="letter-box">O</div><div class="letter-box changed-letter">R</div><div class="letter-box">D</div>
+            </div>
+            <div class="word-row guess-word">
+                <div class="letter-box">C</div><div class="letter-box changed-letter">A</div><div class="letter-box">R</div><div class="letter-box">D</div>
+            </div>
+            <div class="word-row guess-word">
+                <div class="letter-box changed-letter">W</div><div class="letter-box">A</div><div class="letter-box">R</div><div class="letter-box">D</div>
+            </div>
+            <div class="word-row target-word">
+                <div class="letter-box">W</div><div class="letter-box">A</div><div class="letter-box">R</div><div class="letter-box">M</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="endModal">
+        <button class="close-btn" onclick="closeModals()">✕</button>
+        <h3 id="endTitle">Morphed!</h3>
+        <p id="endMessage"></p>
+        <div class="share-area"><button class="share-btn" id="shareBtn">Share Results</button></div>
+        <div style="margin-top: 20px;">
+            <p style="font-size: 14px; color: var(--footer-text);">Play Previous Puzzles:</p>
+            <div class="archive-row" id="archiveLinks"></div>
+        </div>
+    </div>
+
+    <div class="modal" id="archiveModal" style="max-width: 500px; width: 95%; padding: 20px;">
+        <button class="close-btn" onclick="closeModals()">✕</button>
+        <h3>Puzzle Gallery</h3>
+        <p style="font-size: 13px; color: var(--footer-text); margin-bottom: 15px;">Green = Solved | Beige = Unplayed</p>
+        <div class="archive-grid" id="archiveGrid"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
