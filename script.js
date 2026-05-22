@@ -29,28 +29,27 @@ async function init() {
         });
         const puzzlesRes = await fetch('morph_puzzles.json');
         if (!puzzlesRes.ok) throw new Error(`HTTP ${puzzlesRes.status}: Could not find morph_puzzles.json`);
+        
         const parsedPuzzles = await puzzlesRes.json();
         if (!Array.isArray(parsedPuzzles) || parsedPuzzles.length === 0) {
             throw new Error("morph_puzzles.json is empty or not formatted as an array.");
         }
-        
         dailyPuzzles = parsedPuzzles.map(p => {
-            if (p.startWord && p.endWord) {
-                return { start: p.startWord, end: p.endWord, optimalSteps: p.optimalSteps };
-            }
-            return p; 
+            if (Array.isArray(p) && p.length >= 2) return { start: p[0], end: p[1] };
+            if (p.startWord && p.targetWord) return { start: p.startWord, end: p.targetWord };
+            return p;
         });
 
     } catch (err) {
         showToast("Error loading daily data. Using backup puzzle.");
-        dictionary = new Set(["COLD","CORD","CARD","WARD","WARM", "PAIR", "HAIR", "HAIL", "HALL", "HALF"]);
-        dailyPuzzles = [{ "start": "COLD", "end": "WARM", "optimalSteps": 4 }];
+        dictionary = new Set(["COLD","CORD","CARD","WARD","WARM"]);
+        dailyPuzzles = [{ "start": "COLD", "end": "WARM" }];
     }
 
     const currentPhtDay = Math.floor((Date.now() + MANILA_OFFSET_MS) / MS_PER_DAY) - JAVA_EPOCH_OFFSET;
     const urlParams = new URLSearchParams(window.location.search);
     let requestedId = urlParams.get('p') !== null ? parseInt(urlParams.get('p')) : currentPhtDay;
-    
+
     if (requestedId > currentPhtDay) {
         requestedId = currentPhtDay;
         window.history.replaceState({}, document.title, window.location.pathname + "?p=" + currentPhtDay);
@@ -59,8 +58,7 @@ async function init() {
     state.puzzleId = Math.max(0, requestedId);
     currentPuzzle = dailyPuzzles[state.puzzleId % dailyPuzzles.length];
     if (!currentPuzzle || !currentPuzzle.start || !currentPuzzle.end) {
-        console.error("❌ PUZZLE FORMAT ERROR: Missing start or end word.", currentPuzzle);
-        currentPuzzle = { start: "COLD", end: "WARM", optimalSteps: 4 };
+        currentPuzzle = { start: "COLD", end: "WARM" };
     }
 
     wordLength = currentPuzzle.start.length;
